@@ -1,0 +1,19 @@
+{
+  "border": false,
+  "monitors": [
+    {
+      "workspace_padding": 3,
+      "container_padding": 2,
+      "workspaces": [
+        { "name": "I", "layout": "BSP" },
+        { "name": "II", "layout": "VerticalStack" },
+        { "name": "III", "layout": "HorizontalStack" },
+        { "name": "IV", "layout": "UltrawideVerticalStack" },
+        { "name": "V", "layout": "Rows" },
+        { "name": "VI", "layout": "Grid" },
+        { "name": "VII", "layout": "RightMainVerticalStack" }
+      ]
+    }
+  ],
+  "saved_window_rules": []
+}
